@@ -20,7 +20,6 @@
   "scripts": {
     "preinstall": "sudo apt-get install espeak lame vorbis-tools"
   },
-  "os": ["linux"],
   "engines": {
     "node": ">= 0.8.x"
   },
